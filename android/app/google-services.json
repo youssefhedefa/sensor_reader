@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "407480833153",
+    "firebase_url": "https://mobile-tarek-2aa50-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "mobile-tarek-2aa50",
+    "storage_bucket": "mobile-tarek-2aa50.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407480833153:android:7b30bfc960eaa08121a980",
+        "android_client_info": {
+          "package_name": "com.example.sens"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgDS3DvPhZUX8mk2OMTo8BJFEREDDbfLo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

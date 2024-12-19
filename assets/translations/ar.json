@@ -1,0 +1,24 @@
+{
+  "please_select_language": "يرجى تحديد اللغة",
+  "Welcome" : "مرحبا",
+  "arabic": "عربى",
+  "english": "إنجليزى",
+  "log_in": "تسجيل الدخول",
+  "sign_up": "سجل",
+  "email": "البريد الإلكتروني",
+  "password": "كلمه السر",
+  "validate_email": "الرجاء إدخال بريد إلكتروني صالح",
+  "validate_password": "الرجاء إدخال كلمة مرور صالحة",
+  "confirm_password": "تأكيد كلمة المرور",
+  "validate_confirm_password": "كلمات المرور غير متطابقة",
+  "validate_password_match": "تطابق كلمات المرور",
+  "sensor_dashboard": "لوحة الاستشعار",
+  "dark_theme": "سمة داكنة",
+  "light_theme": "سمة خفيفة",
+  "light" : "ضوء",
+  "humidity" : "رطوبة",
+  "soil": "تربة",
+  "temperature" : "درجة الحرارة",
+  "log_out": "تسجيل الخروج"
+
+}

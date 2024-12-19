@@ -1,0 +1,23 @@
+{
+  "please_select_language": "Please select language",
+  "Welcome" : "Welcome",
+  "arabic": "Arabic",
+  "english": "English",
+  "log_in": "Log in",
+  "sign_up": "Sign up",
+  "email": "Email",
+  "password": "Password",
+  "validate_email": "Please enter a valid email",
+  "validate_password": "Please enter a valid password",
+  "confirm_password": "Confirm Password",
+  "validate_confirm_password": "Passwords do not match",
+  "validate_password_match": "Passwords match",
+  "sensor_dashboard": "Sensor Dashboard",
+  "dark_theme": "Dark Theme",
+  "light_theme": "Light Theme",
+  "light" : "Light",
+  "humidity" : "Humidity",
+  "soil": "Soil",
+  "temperature" : "Temperature",
+  "log_out": "Log out"
+}
