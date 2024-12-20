@@ -117,17 +117,17 @@ class _DashboardViewState extends State<DashboardView> {
                       ),
                       const CustomDivider(),
                       ChartSection(
-                        value: data['Hum'],
+                        value: num.tryParse(data['Hum']) ?? 0,
                         label: 'humidity'.tr(),
                       ),
                       const CustomDivider(),
                       ChartSection(
-                        value: data['Soil'],
+                        value: num.tryParse(data['Soil']) ?? 0,
                         label: 'soil'.tr(),
                       ),
                       const CustomDivider(),
                       ChartSection(
-                        value: data['Temp'],
+                        value: num.tryParse(data['Temp']) ?? 0,
                         label: 'temperature'.tr(),
                       ),
                     ],
